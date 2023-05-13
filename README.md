@@ -1,0 +1,1 @@
+The script is used to deploy scdf ( sprint Cloud data flow) in kubernetes with grafana dashboard feature and also using extarnal rabbitmq cluster . Grafana and SCDf both are exposed through LoadBalancer IP .
